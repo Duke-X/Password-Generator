@@ -217,7 +217,7 @@ h1{
     cursor: pointer;
     background-color: var(--lt-violet);
     border-radius: 16px;
-    margin-top: 2rem;
+    margin-top: 3rem;
     margin-bottom: 1.5rem;
     background-image: linear-gradient(var(--vb-violet), var(--vb-violet));
     background-repeat: no-repeat;
